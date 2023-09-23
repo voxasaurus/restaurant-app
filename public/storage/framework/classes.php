@@ -57,4 +57,8 @@
   'Igniter\\User\\Components\\Account' => 'extensions/igniter/user/components/Account.php',
   'Igniter\\Reservation\\Components\\Booking' => 'extensions/igniter/reservation/components/Booking.php',
   'Igniter\\Reservation\\Classes\\BookingManager' => 'extensions/igniter/reservation/classes/BookingManager.php',
+  'Igniter\\Cart\\Actions\\OrderAction' => 'extensions/igniter/cart/actions/OrderAction.php',
+  'Igniter\\Coupons\\Actions\\RedeemsCoupon' => 'extensions/igniter/coupons/actions/RedeemsCoupon.php',
+  'igniter\\pages\\Controllers\\pages' => 'extensions/igniter/pages/controllers/pages.php',
+  'igniter\\frontend\\Controllers\\sliders' => 'extensions/igniter/frontend/controllers/sliders.php',
 );

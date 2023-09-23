@@ -1,4 +1,4 @@
-1695439953a:1:{s:21:"local/menus.blade.php";a:10:{s:8:"fileName";s:21:"local/menus.blade.php";s:5:"mTime";i:1685716626;s:7:"content";s:472:"---
+1695496651a:1:{s:21:"local/menus.blade.php";a:10:{s:8:"fileName";s:21:"local/menus.blade.php";s:5:"mTime";i:1685716626;s:7:"content";s:472:"---
 title: 'main::lang.local.menus.title'
 permalink: '/:location?local/menus/:category?'
 description: ''
